@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://pbs.twimg.com/profile_banners/22399077/1615901743/1500x500" alt="A banner with my logo and the url of my website: www.adrianbolonio.com" />
 
-<!--
-**bolonio/bolonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Adrián Bolonio. I'm a [Google Developer Expert](https://developers.google.com/community/experts) in Web Technologies currently working as an Accessibility Software Engineering at [GitHub](https://github.com/) as part of a talented, diverse, and motivated team that will work on making GitHub and the Internet a better and more accessible place for everyone. 
 
-Here are some ideas to get you started:
+When I’m not at the office I enjoy a good read, working my way through any delicious recipe, and indulging my love for travelling to new places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write post about frontend and web accessibility in my [blog](http://adrianbolonio.com/en/blog), and as well I regularly give talks at conferences about accessibility. You can find my speaker experience in my [website](http://adrianbolonio.com/en/talks).
+
+### You can find me in:
+
+- Web: [adrianbolonio.com](http://adrianbolonio.com/)
+- Twitter: [@bolonio](https://twitter.com/bolonio)
+- LinkedIn: [bolonio](https://linkedin.com/in/adrianbolonio)
