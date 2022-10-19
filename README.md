@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/22399077/1615901743/1500x500" alt="A banner with my logo and the url of my website: www.adrianbolonio.com" />
+<img src="https://pbs.twimg.com/profile_banners/22399077/1665409175/1500x500" alt="A banner with my logo and the url of my website: www.adrianbolonio.com" />
 
 Hi, my name is Adrián Bolonio. I currently work as an Accessibility Software Engineering at [GitHub](https://github.com/) as part of a talented, diverse, and motivated team that will work on making GitHub and the Internet a better and more accessible place for everyone.
 
